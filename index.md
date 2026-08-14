@@ -10,9 +10,9 @@ series: Passionszeit 2023
 summary: "Dass Regenschirme im Sturm nicht unbedingt hilfreich sind, merkt man spätestens, wenn der Wind sie umklappt und zerreisst. Wie ist das mit dem \"Schirm des Höchsten\"? Ist Gott wirklich da in allem Leiden?"
 source: pfarrplaner
 source_id: "355@www.pfarrplaner.de"
-cover: cover.jpg
+cover: schirm-im-sturm.jpg
 cover_alt: "Titelbild zur Predigt \"Schirm im Sturm\"."
-audio: audio.mp3
+audio: schirm-im-sturm.mp3
 audio_duration: "14:42"
 legacy_id: 355
 events:
